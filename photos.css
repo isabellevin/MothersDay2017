@@ -1,0 +1,14 @@
+img         {border-radius:0%;
+             width:40%;
+             height:40%;
+             margin-top:0.25%;
+             margin-left:28%;
+             filter:grayscale(100%);}
+
+
+img:hover   {-webkit-filter: grayscale(0%); /* Safari */
+             filter: grayscale(0%);
+             transition:0s;}
+
+li          {list-style-type: none;
+             padding: 2em;}
